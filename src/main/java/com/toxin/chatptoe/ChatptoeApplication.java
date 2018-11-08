@@ -9,4 +9,5 @@ public class ChatptoeApplication {
     public static void main(String[] args) {
         SpringApplication.run(ChatptoeApplication.class, args);
     }
+
 }
